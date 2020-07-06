@@ -1562,7 +1562,7 @@ fb 14 97 45 9d bc 97 9f 5e 2a a5 e6 77 09 a3 d4
 
 ### Finished（服务端）
 
-![img](../../%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/%E5%9B%BD%E5%AF%86SSL%E4%B8%93%E9%A2%98/assets/20180410150117694.png)
+![img](assets/20180410150117694.png)
 
 1、数据包
 
